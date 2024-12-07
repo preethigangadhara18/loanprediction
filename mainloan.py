@@ -3,6 +3,7 @@ import os
 import pickle
 import numpy as np
 import pandas as pd
+import scikit-learn
 from sklearn.preprocessing import LabelEncoder
 enc=LabelEncoder()
 
